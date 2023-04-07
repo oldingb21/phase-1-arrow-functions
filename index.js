@@ -1,5 +1,5 @@
-const divide = (a, b) => a/b;
+const divide = (num1, num2) => num1/num2;
 
-const square = a => a**2;
+const square = number => number**2;
 
-const add = (a, b) => a+b;
+const add = (num1, num2) => num1+num2;
